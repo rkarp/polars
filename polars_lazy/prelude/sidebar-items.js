@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["AAggExpr",""],["AExpr",""],["ALogicalPlan",""],["LiteralValue",""],["LogicalPlan",""]],"struct":[["ALogicalPlanBuilder",""],["Arena",""],["LogicalPlanBuilder",""],["Node",""],["TypeCoercionRule",""]],"trait":[["DataFrameUdf",""],["Optimize",""],["Optimize",""]]});
